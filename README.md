@@ -25,7 +25,7 @@ ou
 
 $ npm install
 
-É necessário também clocar o repositorio com a api que traz os dados utilizados nessa automação:
+<b>É necessário também clocar o repositorio com a api que traz os dados utilizados nessa automação:</b>
 
 $ git clone https://github.com/flaviansantos/automacao_whatsapp_api
 
